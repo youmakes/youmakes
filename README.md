@@ -30,7 +30,7 @@ I'm Frontend Developer
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
  </picture>
 </a>
-<a href="https://t.me/youmakeee" target="_blank" rel="noreferrer">
+<a href="https://t.me/youmakee" target="_blank" rel="noreferrer">
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TelegramOfficial/Telegram/main/Assets/telegram.png" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TelegramOfficial/Telegram/main/Assets/telegram.png" />
